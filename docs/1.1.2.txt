@@ -1,0 +1,7 @@
+I found out that ensurepip command was built in and target the correct directory for python3.10
+
+Running python3.10 -m ensurepip installs setuptools and pip and fix my missing pip module.
+
+Pip can be updgraded afterwards using python3.10 -m pip install -U pip.
+
+It also work with sudo (had some needs running pip as sudo)

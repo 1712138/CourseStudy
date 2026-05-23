@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1703061584 source:e:\codes\demo3\dualview.c
+	<stdio.h>
+	<stdbool.h>
+	<limits.h>
+
+1703063158 source:e:\codes\demo3\fields.c
+	<stdio.h>
+	<stdbool.h>
+
+1703063158 source:e:\codes\demo3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1703063152 source:e:\codes\demo3\test.c
+	<stdio.h>
+	<stdbool.h>
+	<limits.h>
+

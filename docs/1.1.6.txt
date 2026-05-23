@@ -1,0 +1,10 @@
+Pointers provide a way to use addresses in symbolic form. 
+Because computer computer's hardware instructions are very address-dependent, pointers go some way toward bringing the instructions that the programmer wants to communicate programmer wants to convey in a way that more closely resembles the machine. 
+As a result, programs that use pointers are more efficient. In particular, pointers can handle arrays efficiently. 
+As we will soon learn, the array representation is actually a disguised use of pointers. pointers.
+Let's take an example of a pointer in disguise: an array name is the address of the first element of the array. 
+That is to say, if flizny is the address of the first element of an array. 
+That is, if flizny is an array, the following statement holds:
+Both flizny and &flizny[0] represent the memory address of the first element of the array (& is the address operator).
+Both are constants and do not change during the running of the program. 
+However, they can be assigned to pointer variable, and the value of the pointer variable can then be modified, as shown in Program Listing 10.8. Notice that when a pointer adds on a number when its value changes (the conversion note %p usually displays the pointer's value in hexadecimal). value of the pointer in hexadecimal).
